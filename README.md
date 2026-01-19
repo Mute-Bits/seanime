@@ -38,6 +38,12 @@
 Leave a star if you like the project! ⭐️
 </h5>
 
+## Fork details
+
+I plan to add external players option for online streaming, Extract strings from the web UI to allow translations, And also make the whole UI direction toggleable so RTL languages fit better within the UI.
+
+This will take some time since I have never written any code in Go before, my background is in Java and Typescript.   
+
 ## About
 
 Seanime is a **media server** with a **web interface** and **desktop app** for managing your local library, streaming anime and reading manga.
